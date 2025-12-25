@@ -4,4 +4,4 @@ title: Contact
 
 # 📞 Contact
 
-You can contact me by email at [humblebeeai@gmail.com](mailto:humblebeeai@gmail.com).
+You can contact me by email at [contact@humblebee.ai](mailto:contact@humblebee.ai).
