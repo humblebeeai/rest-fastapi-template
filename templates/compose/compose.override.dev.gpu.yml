@@ -1,6 +1,6 @@
 services:
   api:
-    image: bybatkhuu/rest.fastapi-template:latest-gpu
+    image: humblebee/rest.fastapi-template:latest-gpu
     runtime: nvidia
     build:
       args:

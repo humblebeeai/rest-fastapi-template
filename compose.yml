@@ -1,6 +1,6 @@
 services:
   api:
-    image: bybatkhuu/rest.fastapi-template:latest
+    image: humblebee/rest.fastapi-template:latest
     build:
       context: .
     restart: unless-stopped

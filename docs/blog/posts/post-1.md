@@ -3,7 +3,7 @@ date:
     created: 2025-01-01T01:00:00
     updated: 2025-01-31T01:00:00
 authors:
-  - bybatkhuu
+  - humblebee
 categories:
   - Category-1
   - Category-2
